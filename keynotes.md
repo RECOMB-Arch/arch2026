@@ -10,7 +10,11 @@ title: Keynotes
 {%- assign sp1_inst = "Institute of Inst1" -%}
 {%- assign sp2_inst = "Institute of Inst2" -%}
 
-#### Join us as two distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
+
+TBA 
+
+<!--
+#### Join us as distinguished scientists from diverse fields share their groundbreaking research throughout the conference.
 
 <table style="border: none;">
   <tr>
@@ -26,3 +30,5 @@ title: Keynotes
     </td>
   </tr>
 </table>
+
+-->
