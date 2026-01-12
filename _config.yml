@@ -130,10 +130,10 @@ main_navigation:
 
 # Custom variables
 deadlines:
-  abstract_submission: "TBA, 23:59 AoE"
-  paper_submission: "TBA, 23:59 AoE"
-  author_notification: "TBA"
-  poster_and_short_talk_submission: "TBA"
+  abstract_submission: "March 12, 2026, 23:59 AoE"
+  paper_submission: "March 15, 2026, 23:59 AoE"
+  author_notification: "April 12, 2026"
+  poster_and_short_talk_submission: "April 20, 2026"
   poster_and_short_talk_notification: "TBA"
   conference_dates: "24 May 2026"
 
