@@ -11,7 +11,7 @@ Please submit a 250-word abstract of your talk or poster that describes its prim
 
 Please visit the [EasyChair]({{ site.links.easychair }}) system to submit your talk or poster abstract. The submission system will close on **{{ site.deadlines.poster_and_short_talk_submission }}**. Acceptance notifications will be sent out shortly after submission. For further questions, please contact the PC Chair [{{site.pc_chair1}}]({{ site.links.pc_chair1 }}).
 
-EasyChair link (not yet active): [{{ site.links.easychair }}]({{ site.links.easychair }}).
+EasyChair link: [{{ site.links.easychair }}]({{ site.links.easychair }}).
 
 
 - **Abstract submission deadline**: {{ site.deadlines.poster_and_short_talk_submission }}

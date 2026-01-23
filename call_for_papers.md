@@ -97,7 +97,7 @@ Authors who do not wish their manuscript to be considered for Bioinformatics sho
 
 Manuscripts for the “proceedings track” should not exceed 10 pages using at least 10-point font on U.S. standard 8 1/2 by 11-inch paper with no less than one-inch margin all around. This excludes the cover page and references. The cover page should have the title, the corresponding author’s email address, and the abstract. An optional short appendix can be included if necessary, but reading it will be at the discretion of the program committee. Manuscripts must be submitted electronically in PDF format via the EasyChair system.
 
-In EasyChair, please select {{ site.title }} {{site.year}}” track when you click “New Submission” in the “author” portal within the [RECOMB conference](site.links.easychair).
+In EasyChair, please select {{ site.title }} {{site.year}}” track when you click “New Submission” in the “author” portal within the [RECOMB conference]({{ site.links.easychair }}).
 
 Authors **must post their submission on a preprint server like bioRxiv**. They should not assume that a formal proceedings volume will be published, as a final decision is still pending. All accepted papers will have opportunities for publication through our journal partners.
 
