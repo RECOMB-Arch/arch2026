@@ -12,7 +12,7 @@ title: Committees
 
 ## Program Chair
 
- - [Can Alkan](http://alkanlab.org/), Bilkent University
+ - [Yatish Turakhia](https://turakhia.ucsd.edu/), University of California, San Diego
  - [Ibrahim Numanagić](https://saray.ca/~ibrahim/), University of Victoria
 
 ### Program Committee
