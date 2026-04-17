@@ -132,9 +132,9 @@ main_navigation:
 deadlines:
   abstract_submission: "March 12, 2026, 23:59 AoE"
   paper_submission: "March 18, 2026, 23:59 AoE"
-  author_notification: "April 12, 2026"
-  poster_and_short_talk_submission: "April 20, 2026"
-  poster_and_short_talk_notification: "TBA"
+  author_notification: "April 22, 2026"
+  poster_and_short_talk_submission: "April 20, 2026, 23:59 AoE"
+  poster_and_short_talk_notification: "April 22, 2026"
   conference_dates: "24 May 2026"
 
 links:
