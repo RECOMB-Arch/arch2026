@@ -35,9 +35,9 @@ author:
 # remote_theme: jekyll/minima@d4d779a
 #
 # Minima requires the following plugins:
-#plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 #
 # Uncomment the following setting if you wish to disable deprecation warnings
 #   from newer versions of sass converter. Adapt as required.
@@ -153,4 +153,3 @@ links:
 #     Refer to https://shopify.github.io/liquid/filters/date/ for valid values
 #   date_format: "%b-%d-%Y"
 #
-
