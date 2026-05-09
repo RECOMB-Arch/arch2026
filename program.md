@@ -38,8 +38,6 @@ title: Program
       </div>
     </article>
 
-    <div class="program-session">Research Talks</div>
-
     <article class="program-item">
       <div class="program-time">10:30-10:50</div>
       <div class="program-entry">
