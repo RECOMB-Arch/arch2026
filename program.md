@@ -7,7 +7,7 @@ title: Program
   <div class="program-overview">
     <div>
       <h2>Schedule</h2>
-      <!--p>RECOMB-Arch {{ site.year }} will be held at the Thessaloniki Concert Hall.</p-->
+      <!--p>RECOMB-Arch {{ site.year }} will be held at Nikolaos Germanos Hall D.</p-->
     </div>
     <div class="program-meta">
       <div>
@@ -16,7 +16,7 @@ title: Program
       </div>
       <div>
         <span>Venue</span>
-        <strong>Thessaloniki Concert Hall</strong>
+        <strong><a href="https://maps.app.goo.gl/MpiugMvxM9BkLRVG9">Nikolaos Germanos Hall D</a></strong>
       </div>
     </div>
   </div>
